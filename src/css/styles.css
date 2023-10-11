@@ -32,16 +32,16 @@ body {
 }
 
 .titulo h1 {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: normal;
     color: black;
 }
 
 .input-cpf {
     width: 100%;
-    padding: 5px;
+    padding: 10px;
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     border: none;
     border-radius: 5px;
     background-color: #d3cece;
@@ -50,9 +50,9 @@ body {
 .resultado {
     text-align: center;
     width: 100%;
-    margin: 10px 0;
+    margin: 15px 0;
     border-radius: 5px;
-    font-size: 10px;
+    font-size: 19px;
 }
 
 .escondido {
@@ -77,12 +77,11 @@ body {
 
 .btnValida {
     color: #000000;
-    font-size: 10px;
+    font-size: 15px;
     background-color: #3ceea4;
     border: none;
     cursor: pointer;
-    padding: 5px 50px;
-    font-size: 10px;
+    padding: 10px 60px;
 }
 
 .btnValida:hover {
@@ -91,7 +90,7 @@ body {
 
 div.div-btn span {
     color: #000000;
-    font-size: 10px;
+    font-size: 15px;
     border-radius: 1px;
     text-decoration: none;
     background-color: #3ceea4;
